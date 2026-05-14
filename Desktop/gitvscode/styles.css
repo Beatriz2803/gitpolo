@@ -20,7 +20,11 @@ body {
 
 button {
   background: #6c63ff;
-  color: white;
+  color: rgb(224, 8, 8);
   border: none;
-  padding: 10px 20px;
-    }
+  padding: 35px 30px;
+}
+
+button:hover {
+  background-color: #4e080d;    
+}
